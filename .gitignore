@@ -1,0 +1,5 @@
+wrangler.toml
+worker/*
+node_modules
+dist
+.#*

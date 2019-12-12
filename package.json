@@ -1,0 +1,14 @@
+{
+  "name": "h2-playground",
+  "version": "1.0.0",
+  "description": "testing out http2 features w/ cloudflare workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cloudflare/wrangler": "^1.6.0"
+  }
+}
